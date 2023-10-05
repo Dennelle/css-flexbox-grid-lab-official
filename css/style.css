@@ -1,0 +1,19 @@
+* {
+    box-sizing: border-box;
+  }
+
+  body {
+    margin: 0;
+    font-family: Helvetica;
+    background-color: rgb(17,84,85);
+}
+
+.container{
+    display: grid;
+}
+
+.profile-image{
+    width: 150px;
+    border-radius: 50%;
+
+  }
